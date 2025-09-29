@@ -1,1 +1,1 @@
-worker: python main.pygit init
+worker: python main.py
